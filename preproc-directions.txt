@@ -1,0 +1,10 @@
+remove punctuation at the beginning and end of each word
+remove symbols in the middle of a word
+convert all to lowercase
+remove only symbol words
+
+manually preprocessed
+- ad libs, background vocals/samples ('Oh', 'uh', 'why are you...late')
+- elongated words ('noooooise' -> 'noise', 'Yeaaaah')
+- stammered words ('R-r-r-r-right' -> 'Right')
+- shortened words (feelin' -> feeling, 'em -> them)
